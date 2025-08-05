@@ -1,0 +1,20 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Node / Sass
+node_modules/
+*.map
+
+# Compiled CSS
+/assets/styles.css
+/assets/styles.css.map
+
+# Logs
+logs/
+*.log
+
+# Config files met gevoelige data
+ini.inc
