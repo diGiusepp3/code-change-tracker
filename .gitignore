@@ -24,3 +24,14 @@ index.php
 header.php
 footer.php
 /assets/
+
+# Composer
+/vendor/
+
+# SQL dumps
+*.sql
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
+

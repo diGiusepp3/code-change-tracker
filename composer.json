@@ -1,0 +1,15 @@
+{
+  "name": "webcrafters/code-change-logger",
+  "description": "A PHP library to track code changes and store diffs in MySQL.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "CodeChangeLogger\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.4"
+  },
+  "license": "proprietary"
+}
+
