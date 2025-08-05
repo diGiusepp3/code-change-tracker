@@ -18,3 +18,9 @@ logs/
 
 # Config files met gevoelige data
 ini.inc
+
+# Exclude marketing website
+index.php
+header.php
+footer.php
+/assets/
